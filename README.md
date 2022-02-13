@@ -5,8 +5,8 @@
 
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
+### Hi there 👋 I'm [Carlos Vivas](https://anandmainali.com.np)
+
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
